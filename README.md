@@ -1,9 +1,6 @@
 ### Hey there! 👋
 
 I'm Allan Duarte, Senior Back End Developer with a focus on Elixir.
-<!-- - Senior Backend Engineer @; -->
-- CS undergraduate at Centre University Catholic of Santa Catarina;
-- Elixir mentor at Exercism. [Check my profile](https://exercism.io/profiles/allansduarte)
 
 ![Allan's github stats](https://github-readme-stats.vercel.app/api?username=allansduarte&show_icons=true&hide_border=true)
 
