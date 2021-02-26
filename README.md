@@ -6,9 +6,9 @@ I'm Allan Duarte, Senior Back End Developer with a focus on Elixir.
 
 ### 📚 Learning
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Elixir-%23F9FAFB.svg?&style=flat-square&logo=elixir&logoColor=%234B275F" alt="">
-</p>
+<a href="https://elixir-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Elixir-%23F9FAFB.svg?&style=flat-square&logo=elixir&logoColor=%234B275F" alt="Elixir">
+</a>
 
 ### ☕ Get In Touch
   <a href="https://in.linkedin.com/in/allan-soares-duarte-b343b1203" target="_blank">
