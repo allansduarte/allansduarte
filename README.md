@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Allan Duarte, Senior Back End Developer with a focus on Elixir.
+I'm Allan Duarte, Senior Back End Developer at [Stone.co](https://github.com/stone-payments) with a focus on Elixir.
 
 ![Allan's github stats](https://github-readme-stats.vercel.app/api?username=allansduarte&show_icons=true&hide_border=true)
 
