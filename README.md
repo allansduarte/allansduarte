@@ -1,8 +1,6 @@
 ### Hey there! 👋
 
-I'm Allan Duarte, Senior Back End Developer at [PremierSoft](https://premiersoft.net/) with a focus on Elixir.
-
-![Allan's github stats](https://github-readme-stats.vercel.app/api?username=allansduarte&show_icons=true&hide_border=true)
+I'm Allan Duarte, Senior Back End Developer at ... with a focus on Elixir.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansduarte&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
