@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Allan Duarte, Senior Back End Developer primarily in Elixir.
+I'm Allan Duarte, Senior Back End Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansduarte&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
