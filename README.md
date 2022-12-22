@@ -4,12 +4,6 @@ I'm Allan Duarte, Senior Back End Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansduarte&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📚 Learning
-
-<a href="https://elixir-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
-</a>
-
 ### ☕ Get In Touch
   <a href="https://in.linkedin.com/in/allan-soares-duarte-b343b1203" target="_blank">
     <img align="left" alt="Allan | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
